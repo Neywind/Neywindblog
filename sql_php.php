@@ -1,4 +1,4 @@
-<meta charset="UTF-8">
+
 <?php
 $name=$_POST['name'];
 $email=$_POST['email'];
